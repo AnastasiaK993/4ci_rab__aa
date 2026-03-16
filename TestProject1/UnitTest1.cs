@@ -34,7 +34,7 @@ namespace TestProject1
         {
             Rectangle Rectangle_object = new Rectangle(a, b);
 
-            Assert.Equal($"ширина={Rectangle_object.Width},высота={Rectangle_object.Height},площадь={Rectangle_object.Area()},периметр={Rectangle_object.Perimeter()}", Rectangle_object.ToString());
+            Assert.Equal($"{Rectangle_object.Width}.{Rectangle_object.Height}.{Rectangle_object.Area()}.{Rectangle_object.Perimeter()}", Rectangle_object.ToString());
         }
 
 
