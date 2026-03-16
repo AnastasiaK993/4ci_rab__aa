@@ -1,0 +1,11 @@
+C:\Users\1\Desktop\DLya_luchshego_velikolepnogo_Denisa_Olegovicha\okfs\GeometryShape2\GeometryShape2\bin\Debug\net8.0\GeometryShape2.deps.json
+C:\Users\1\Desktop\DLya_luchshego_velikolepnogo_Denisa_Olegovicha\okfs\GeometryShape2\GeometryShape2\bin\Debug\net8.0\GeometryShape2.dll
+C:\Users\1\Desktop\DLya_luchshego_velikolepnogo_Denisa_Olegovicha\okfs\GeometryShape2\GeometryShape2\bin\Debug\net8.0\GeometryShape2.pdb
+C:\Users\1\Desktop\DLya_luchshego_velikolepnogo_Denisa_Olegovicha\okfs\GeometryShape2\GeometryShape2\obj\Debug\net8.0\GeometryShape2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\DLya_luchshego_velikolepnogo_Denisa_Olegovicha\okfs\GeometryShape2\GeometryShape2\obj\Debug\net8.0\GeometryShape2.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\DLya_luchshego_velikolepnogo_Denisa_Olegovicha\okfs\GeometryShape2\GeometryShape2\obj\Debug\net8.0\GeometryShape2.AssemblyInfo.cs
+C:\Users\1\Desktop\DLya_luchshego_velikolepnogo_Denisa_Olegovicha\okfs\GeometryShape2\GeometryShape2\obj\Debug\net8.0\GeometryShape2.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\DLya_luchshego_velikolepnogo_Denisa_Olegovicha\okfs\GeometryShape2\GeometryShape2\obj\Debug\net8.0\GeometryShape2.dll
+C:\Users\1\Desktop\DLya_luchshego_velikolepnogo_Denisa_Olegovicha\okfs\GeometryShape2\GeometryShape2\obj\Debug\net8.0\refint\GeometryShape2.dll
+C:\Users\1\Desktop\DLya_luchshego_velikolepnogo_Denisa_Olegovicha\okfs\GeometryShape2\GeometryShape2\obj\Debug\net8.0\GeometryShape2.pdb
+C:\Users\1\Desktop\DLya_luchshego_velikolepnogo_Denisa_Olegovicha\okfs\GeometryShape2\GeometryShape2\obj\Debug\net8.0\ref\GeometryShape2.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GeometryShape2/1.0.0": {
+        "runtime": {
+          "GeometryShape2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeometryShape2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
