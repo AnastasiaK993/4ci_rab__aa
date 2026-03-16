@@ -32,7 +32,7 @@ namespace GeometryShape2
         }
         public override string ToString()//информация
         {
-            return $"ширина={Width},высота={Height},площадь={Area()},периметр={Perimeter()}";
+            return $"{Width}.{Height}.{Area()}.{Perimeter()}";
         }
     }
 }

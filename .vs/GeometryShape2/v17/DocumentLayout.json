@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\DLya_luchshego_velikolepnogo_Denisa_Olegovicha\\okfs\\GeometryShape2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{216C4A49-4E9F-43BD-9090-3C1D5CE3D571}|TestProject1\\TestProject1.csproj|c:\\users\\1\\desktop\\dlya_luchshego_velikolepnogo_denisa_olegovicha\\okfs\\geometryshape2\\testproject1\\triangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{216C4A49-4E9F-43BD-9090-3C1D5CE3D571}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\triangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84BCFA1C-63B8-4D67-8E9A-BFFA9059F99B}|GeometryShape2\\GeometryShape2.csproj|c:\\users\\1\\desktop\\dlya_luchshego_velikolepnogo_denisa_olegovicha\\okfs\\geometryshape2\\geometryshape2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84BCFA1C-63B8-4D67-8E9A-BFFA9059F99B}|GeometryShape2\\GeometryShape2.csproj|solutionrelative:geometryshape2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{216C4A49-4E9F-43BD-9090-3C1D5CE3D571}|TestProject1\\TestProject1.csproj|c:\\users\\1\\desktop\\dlya_luchshego_velikolepnogo_denisa_olegovicha\\okfs\\geometryshape2\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{216C4A49-4E9F-43BD-9090-3C1D5CE3D571}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216C4A49-4E9F-43BD-9090-3C1D5CE3D571}|TestProject1\\TestProject1.csproj|c:\\users\\1\\desktop\\dlya_luchshego_velikolepnogo_denisa_olegovicha\\okfs\\geometryshape2\\testproject1\\triangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216C4A49-4E9F-43BD-9090-3C1D5CE3D571}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\triangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84BCFA1C-63B8-4D67-8E9A-BFFA9059F99B}|GeometryShape2\\GeometryShape2.csproj|c:\\users\\1\\desktop\\dlya_luchshego_velikolepnogo_denisa_olegovicha\\okfs\\geometryshape2\\geometryshape2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\DLya_luchshego_velikolepnogo_Denisa_Olegovicha\\okfs\\GeometryShape2\\GeometryShape2\\Rectangle.cs",
+              "RelativeDocumentMoniker": "GeometryShape2\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\DLya_luchshego_velikolepnogo_Denisa_Olegovicha\\okfs\\GeometryShape2\\GeometryShape2\\Rectangle.cs",
+              "RelativeToolTip": "GeometryShape2\\Rectangle.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:01:30.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "triangletest.cs",
               "DocumentMoniker": "C:\\Users\\1\\Desktop\\DLya_luchshego_velikolepnogo_Denisa_Olegovicha\\okfs\\GeometryShape2\\TestProject1\\triangletest.cs",
               "RelativeDocumentMoniker": "TestProject1\\triangletest.cs",
               "ToolTip": "C:\\Users\\1\\Desktop\\DLya_luchshego_velikolepnogo_Denisa_Olegovicha\\okfs\\GeometryShape2\\TestProject1\\triangletest.cs",
               "RelativeToolTip": "TestProject1\\triangletest.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T11:41:24.125Z",
               "EditorCaption": ""
@@ -45,14 +62,14 @@
               "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\1\\Desktop\\DLya_luchshego_velikolepnogo_Denisa_Olegovicha\\okfs\\GeometryShape2\\TestProject1\\UnitTest1.cs",
               "RelativeToolTip": "TestProject1\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T11:22:04.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Users\\1\\Desktop\\DLya_luchshego_velikolepnogo_Denisa_Olegovicha\\okfs\\GeometryShape2\\GeometryShape2\\Shape.cs",
               "RelativeDocumentMoniker": "GeometryShape2\\Shape.cs",
