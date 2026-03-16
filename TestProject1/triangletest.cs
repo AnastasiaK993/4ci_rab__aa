@@ -12,7 +12,7 @@ namespace TestProject1
         [Theory]
         [InlineData(1, 0, 1)]
         [InlineData(0, 1, 1)]
-        [InlineData(1, 1, 1)]
+        [InlineData(1, 1, 0)]
         //[InlineData(double.MaxValue+11,1 )]
         //[InlineData(11, double.MaxValue + 11)]
         public void GeometryShape_if_input_data_be_incorrect_Triangle(double a, double b, double c)
